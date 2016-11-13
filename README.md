@@ -1,1 +1,1 @@
-#Doing todo app with react (by now)
+### Doing a random app with React and Webpack
